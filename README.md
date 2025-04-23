@@ -1,7 +1,7 @@
 # conflict-excersice
 <<<<<<< HEAD
-cambio en main
+cambio en main y feature
 
 =======
-cambio feature branchhh
+
 >>>>>>> feature-branch
