@@ -1,2 +1,2 @@
 # conflict-excersice
-Este es un cambio en la feature branch.
+cambio en feature branch
